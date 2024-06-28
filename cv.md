@@ -1,4 +1,3 @@
-https://notev1l.github.io/rsschool-cv/cv
 # Viktor Skyba
 ### Contacts
 - **Phone:** +38 097 183-49-07
